@@ -64,4 +64,3 @@ This framework is flexible for any tools. You can get detail informations in bel
 - See what is RestAssured and API Testing and components are [RestAssured](https://rest-assured.io)
 - Getting Started [Maven](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html) in 5 minutes
 - Spring Boot Maven Plugin Reference [Guide](https://docs.spring.io/spring-boot/docs/2.7.0-SNAPSHOT/maven-plugin/reference/html/)
-    
